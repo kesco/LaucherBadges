@@ -1,6 +1,5 @@
 package com.kescoode.android.system;
 
-public interface LaucherBadge {
-
+public interface LauncherBadge {
     void show(int num);
 }
